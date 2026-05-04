@@ -1,0 +1,13 @@
+1:"$Sreact.fragment"
+2:I[39896,["/NEXORA/_next/static/chunks/01xlw8hd842-c.js","/NEXORA/_next/static/chunks/0d3shmwh5_nmn.js","/NEXORA/_next/static/chunks/07suv~i32n0ra.js"],"Navbar"]
+3:I[77258,["/NEXORA/_next/static/chunks/01xlw8hd842-c.js","/NEXORA/_next/static/chunks/0d3shmwh5_nmn.js","/NEXORA/_next/static/chunks/07suv~i32n0ra.js"],"Hero"]
+4:I[13958,["/NEXORA/_next/static/chunks/01xlw8hd842-c.js","/NEXORA/_next/static/chunks/0d3shmwh5_nmn.js","/NEXORA/_next/static/chunks/07suv~i32n0ra.js"],"WhyProperty"]
+5:I[97287,["/NEXORA/_next/static/chunks/01xlw8hd842-c.js","/NEXORA/_next/static/chunks/0d3shmwh5_nmn.js","/NEXORA/_next/static/chunks/07suv~i32n0ra.js"],"RetailLuxury"]
+6:I[74576,["/NEXORA/_next/static/chunks/01xlw8hd842-c.js","/NEXORA/_next/static/chunks/0d3shmwh5_nmn.js","/NEXORA/_next/static/chunks/07suv~i32n0ra.js"],"DiningLifestyle"]
+7:I[83049,["/NEXORA/_next/static/chunks/01xlw8hd842-c.js","/NEXORA/_next/static/chunks/0d3shmwh5_nmn.js","/NEXORA/_next/static/chunks/07suv~i32n0ra.js"],"Entertainment"]
+8:I[74627,["/NEXORA/_next/static/chunks/01xlw8hd842-c.js","/NEXORA/_next/static/chunks/0d3shmwh5_nmn.js","/NEXORA/_next/static/chunks/07suv~i32n0ra.js"],"EventsBooking"]
+9:I[17090,["/NEXORA/_next/static/chunks/01xlw8hd842-c.js","/NEXORA/_next/static/chunks/0d3shmwh5_nmn.js","/NEXORA/_next/static/chunks/07suv~i32n0ra.js"],"FooterCTA"]
+a:I[97367,["/NEXORA/_next/static/chunks/01xlw8hd842-c.js","/NEXORA/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen","children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}],["$","$L9",null,{}]]}],[["$","script","script-0",{"src":"/NEXORA/_next/static/chunks/07suv~i32n0ra.js","async":true}]],["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zKjFGr11gzjSMuDOzAJRv"}
+c:null
